@@ -16,7 +16,7 @@ namespace newApp_http
     public partial class MainPage : ContentPage
     {
 
-        public string Rakuten_URL = "https://app.rakuten.co.jp/services/api/BooksGenre/Search/20121128?format=json|&applicationId=1008026300680682252";
+        //public string Rakuten_URL = "https://app.rakuten.co.jp/services/api/BooksGenre/Search/20121128?format=json|&applicationId=1008026300680682252";
 
         public MainPage()
         {
