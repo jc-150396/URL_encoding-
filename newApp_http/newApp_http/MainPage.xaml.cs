@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using System.IO;
 using System.Net;
-using System.Threading.Tasks;
 using System.Net.Http;　// nugetで`System.Net.Http`か`Microsoft.AspNet.WebApi.Client`をインストすると使える。
 
 
