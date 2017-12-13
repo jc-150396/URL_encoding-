@@ -5,9 +5,20 @@
              x:Class="newApp_http.MainPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+
+
+
+            <Label Text="本のキーワード検索うｒｌ作成"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center" />
+
+            <Entry Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand"
+                   x:Name="abc"/>
+            
+            
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
