@@ -30,9 +30,4 @@ namespace newApp_http
 
         }
     }
-
-
-
-    }
-
 }
